@@ -1,8 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- *Main - entry point 
- *Return Always 0 (Success)
-*/
+ * main - Entry point
+ *
+ * Return: Always 0(Success)
+ */
 int main(void)
 {
 	printf("Size of a char: %lu bytes(s)\n", (unsigned long)sizeof(char));
