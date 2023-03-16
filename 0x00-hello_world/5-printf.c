@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
-*Main - entry point
-*
-*Return: Always 0 (Success)
-*/
+ * Main - entry point
+ * Return: 0 (Success)
+ */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art, \n");
