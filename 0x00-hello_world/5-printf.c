@@ -5,7 +5,7 @@
  */
 
 /**
- *my_function - This is a description
+ * my_function - This is a description
  */
 int main(void)
 {
